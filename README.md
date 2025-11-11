@@ -22,49 +22,17 @@ Backend: Node.js, Express.js
 
 Database: MongoDB with Mongoose
 
-⚙️ Setup Instructions
-
-Clone the repository:
-
-git clone https://github.com/Sparky-2501/minor-project-3-mini-facebook-group.git
-cd minor-project-3-mini-facebook-group
-
-
-Install dependencies:
-
-npm install
-
-
-Create a .env file for your MongoDB connection:
-
-MONGO_URI=your_connection_string
-PORT=3000
-
-
-Run the server:
-
-node app.js
-
-
-Open your browser at:
-
-http://localhost:3000
-
-📂 Project Structure
-├── models/
-│   └── chat.js
-├── views/
-│   ├── index.ejs
-│   └── ...
-├── public/
-│   ├── style.css
-│   └── ...
-├── app.js
-└── package.json
-
-📸 Preview
-
-(Add screenshots or GIFs here if available)
+📂 Project Structure<br>
+├── models/<br>
+│   └── chat.js<br>
+├── views/<br>
+│   ├── index.ejs<br>
+│   └── ...<br>
+├── public/<br>
+│   ├── style.css<br>
+│   └── ...<br>
+├── app.js<br>
+└── package.json<br>
 
 📜 License
 
